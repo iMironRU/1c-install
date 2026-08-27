@@ -18,7 +18,7 @@ version: "0.1.0"
 #  ОТСЛЕЖИВАНИЕ ШАБЛОНА
 # ─────────────────────────────────────────────
 template_repo: "https://github.com/iMironRU/book-template"
-template_version: "v0.1.0"
+template_version: "v0.2.1"
 
 # ─────────────────────────────────────────────
 #  ФОРМАТЫ ВЫПУСКА
@@ -54,7 +54,7 @@ artifacts: []
 # ─────────────────────────────────────────────
 #  САЙТ (GitHub Pages)
 # ─────────────────────────────────────────────
-site_url: "https://iMironRU.github.io/install-1c"
+site_url: "https://imiron.ru/install-1c/"
 
 # ─────────────────────────────────────────────
 #  НОЧНЫЕ СБОРКИ
