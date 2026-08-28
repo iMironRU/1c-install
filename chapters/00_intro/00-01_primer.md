@@ -1,5 +1,5 @@
 ---
-status: ready
+status: todo
 ---
 
 # § 0.1. Пример параграфа
